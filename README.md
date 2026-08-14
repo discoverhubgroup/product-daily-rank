@@ -4,8 +4,8 @@
 
 - Discover社区: [https://discoverhub.cn](https://discoverhub.cn)
 - Github : https://github.com/discoverhubgroup
-- 微信公众号: [知乎社区](https://www.zhihu.com/people/OpenGithub)、[头条社区](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)、[微信公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4039839316019691542)
 - Github期刊: [日刊](https://github.com/discoverhubgroup/product-daily-rank) 、[周刊](https://github.com/discoverhubgroup/product-weekly-rank) 、 [月刊](https://github.com/discoverhubgroup/product-monthly-rank)
+- 关注社区: [知乎社区](https://www.zhihu.com/people/OpenGithub)、[头条社区](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)、[微信公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4039839316019691542)
 - **喜欢分享&关注开源, +微信: open_github**
 
 
@@ -136,6 +136,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+r>
 thub</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
