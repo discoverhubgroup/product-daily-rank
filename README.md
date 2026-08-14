@@ -4,23 +4,14 @@
 
 - Discover社区: [https://discoverhub.cn](https://discoverhub.cn)
 - Github : https://github.com/discoverhubgroup
-- 微信公众号: >>[搜索开源推荐官](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4039839316019691542)
-- 头条社区: >>[搜索Discover社区](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)
-- 知乎社区: >>[搜索Open Github社区](https://www.zhihu.com/people/OpenGithub)
-- 订阅Github: >> [Github周刊](https://github.com/OpenGithubs/weekly) , [Github月刊](https://github.com/OpenGithubs/monthly)
+- 微信公众号: [知乎社区](https://www.zhihu.com/people/OpenGithub)、[头条社区](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)、[微信公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4039839316019691542)
+- Github期刊: [日刊](https://github.com/discoverhubgroup/product-daily-rank) 、[周刊](https://github.com/discoverhubgroup/product-weekly-rank) 、 [月刊](https://github.com/discoverhubgroup/product-monthly-rank)
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.08.13日榜最佳项目:cathrynlavery/diagram-design  
-- 开源地址：https://github.com/cathrynlavery/diagram-design
-- 📅 开源时间：2026-04-17
-- ⭐ 总星标数量：13888⭐
-- 🔺 日Star增长量：4211⭐
-- 📝 项目描述: 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.08.13 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-| 排名        |  项目名      | Star⭐       | 今日增长量   |
+| 排名        |  项目名      | 当前Star⭐       | 今日Star增长量   |
 |------------|------------|---------------|---------------- |
 | 1 |  [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)| 13.9k  | 🔺4211 |
 | 2 |  [semantica-agi/semantica](https://github.com/semantica-agi/semantica)| 6.5k  | 🔺865 |
@@ -33,12 +24,11 @@
 | 9 |  [every-app/open-seo](https://github.com/every-app/open-seo)| 11.7k  | 🔺285 |
 | 10 |  [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)| 5.4k  | 🔺277 |
 
-**注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
+**注**: 数据统计来源:https://discoverhub.cn/trend/github/rank?type=2
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.08.13 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 ## 1.diagram-design 13.9k⭐
-![]()
 - **产品地址**：[https://github.com/cathrynlavery/diagram-design](https://discoverhub.cn/product/detail/01KZYNN6YKFP50P1Z5KSGDJ20F)
 - **产品介绍**：29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - **产品外站**：[[github](https://github.com/cathrynlavery/diagram-design)] 
@@ -48,7 +38,6 @@
 - **主要语言**：[HTML](https://github.com/search?q=language:HTML&type=repositories)
 - **开源时间**：2026-04-17
 ## 2.semantica 6.5k⭐
-![]()
 - **产品地址**：[https://getsemantica.ai](https://discoverhub.cn/product/detail/01KZPYF261RHRA8HVCT6F0H02E)
 - **产品介绍**：Graph-Native Infrastructure for Context and Accountable AI Systems
 - **产品外站**：[[github](https://github.com/semantica-agi/semantica)] 
@@ -58,7 +47,6 @@
 - **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
 - **开源时间**：2025-06-25
 ## 3.macro 2.5k⭐
-![]()
 - **产品地址**：[https://macro.com](https://discoverhub.cn/product/detail/01KZYNN8E7CMV2KMTD1M5T007J)
 - **产品介绍**：Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - **产品外站**：[[github](https://github.com/macro-inc/macro)] 
@@ -68,7 +56,6 @@
 - **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
 - **开源时间**：2025-11-08
 ## 4.needle 4.8k⭐
-![]()
 - **产品地址**：[https://cactuscompute.com](https://discoverhub.cn/product/detail/01KZYNN9748KFPFKCB4353RRCS)
 - **产品介绍**：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 - **产品外站**：[[github](https://github.com/cactus-compute/needle)] 
@@ -89,7 +76,6 @@
 - **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
 - **开源时间**：2026-08-04
 ## 6.prime-agent 15.4k⭐
-![]()
 - **产品地址**：[https://github.com/PrimeIntellect-ai/prime-agent](https://discoverhub.cn/product/detail/01KZHSNKDM76Z5W53E1GGPXBYE)
 - **产品介绍**：A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - **产品外站**：[[github](https://github.com/PrimeIntellect-ai/prime-agent)] 
@@ -146,6 +132,11 @@
 ## 更多Github开源项目,请关注微信&公众号
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
+<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+thub</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
