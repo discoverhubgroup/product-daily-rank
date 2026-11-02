@@ -1,4 +1,4 @@
-## 2026.11.01 最佳产品🔝:ai-pose-gallery-zh
+## 2026.11.02 最佳产品🔝:ai-pose-gallery-zh
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -9,7 +9,7 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.31 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.01 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | 当前Star⭐       | 今日Star增长量   |
 |------------|------------|---------------|---------------- |
@@ -26,7 +26,7 @@
 
 **注**: 数据统计来源:https://discoverhub.cn/trend/github/rank?type=2
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.31 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.01 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 ## 1.ai-pose-gallery-zh 3.9k⭐
 - **产品地址**：[https://ai-pose-gallery.anhao.app](https://discoverhub.cn/product/detail/01M64Y8JM9SV8J0SP5GGVPTK2T)
