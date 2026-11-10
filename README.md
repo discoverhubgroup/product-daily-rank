@@ -1,4 +1,4 @@
-## 2026.11.09 最佳产品🔝:craft-anything
+## 2026.11.10 最佳产品🔝:craft-anything
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -9,7 +9,7 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.08 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.09 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | 当前Star⭐       | 今日Star增长量   |
 |------------|------------|---------------|---------------- |
@@ -26,11 +26,12 @@
 
 **注**: 数据统计来源:https://discoverhub.cn/trend/github/rank?type=2
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.08 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.09 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-## 1.软件逆向自研工具:craft-anything 7.7k⭐
+## 1.软件原理解析复刻工具:craft-anything 7.7k⭐
+![](https://discoverhub.cn/image/product/20261109/079d0815-6508-4e9f-bacc-978ba0d42dde.png)
 - **产品地址**：[https://github.com/storytold/craft-anything](https://discoverhub.cn/product/detail/01M6F7VFTFVVXVTTKDW8P0GNS3)
-- **产品介绍**：帮你解析任意软件运行原理，理解底层逻辑，基于理解自主复刻、开发同类软件
+- **产品介绍**：解析任意软件运行底层原理，吃透逻辑后，支持自主理解复刻，开发同类程序
 - **产品分类**：[[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[能力插件](https://discoverhub.cn/category/01KGE33EB6WP2TRT22J0V4FHQ0)] 
 - **产品外站**：[[github](https://github.com/storytold/craft-anything)] 
 - **Github地址**：[https://github.com/storytold/craft-anything](https://github.com/storytold/craft-anything)
@@ -38,9 +39,10 @@
 - **近期趋势**： 周增长: **3.8k**⭐	 月增长: **3.8k**⭐
 - **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
 - **开源时间**：2026-10-31
-## 2.深度自主智能体原型系统:dsh-superagent-prototype 16.4k⭐
+## 2.DeepSeek 自研超智能体原型:dsh-superagent-prototype 16.4k⭐
+![](https://discoverhub.cn/image/product/20261109/aa8c461d-4c9e-4241-956b-16d571cd8ed7.jpg)
 - **产品地址**：[https://github.com/deepseek-ai/dsh-superagent-prototype](https://discoverhub.cn/product/detail/01M6A324GNFXHPZNZ299ZHTHHS)
-- **产品介绍**：DeepSeek 自研超智能体原型，面向更高自主能力的 AI 系统研发，探索复杂任务自主处理能力
+- **产品介绍**：DeepSeek 自研超智能体原型系统，面向高自主 AI 研发，探索复杂任务自主处理方案
 - **产品分类**：[[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[人工智能](https://discoverhub.cn/category/01KER5E4VN1RDEV009QSZM1R6V)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[自主决策](https://discoverhub.cn/category/01KH3DFPR1YGYFFHAKSQTMWJ3P)] 
 - **产品外站**：[[github](https://github.com/deepseek-ai/dsh-superagent-prototype)] 
 - **Github地址**：[https://github.com/deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
@@ -48,9 +50,10 @@
 - **近期趋势**： 周增长: **14.3k**⭐	 月增长: **14.3k**⭐
 - **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
 - **开源时间**：2026-10-31
-## 3.便携 DeepSeek Harness 工具:dsh-Go 7.3k⭐
+## 3.轻量化 DeepSeek Harness:dsh-Go 7.3k⭐
+![](https://discoverhub.cn/image/product/20261109/e4e1ac3c-2307-4c2e-8ff5-01ace1b4a026.jpg)
 - **产品地址**：[https://github.com/ccch1mneyyy/dsh-Go](https://discoverhub.cn/product/detail/01M67GN8X7JV23YRA67J7AYBPB)
-- **产品介绍**：DeepSeek Harness 轻量化版本，支持手机本地运行，也可远程连接操控电脑端服务
+- **产品介绍**：DeepSeek Harness 轻量版本，支持手机本地运行，也可远程连接操控电脑端服务
 - **产品分类**：[[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] 
 - **产品外站**：[[github](https://github.com/ccch1mneyyy/dsh-Go)] 
 - **Github地址**：[https://github.com/ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)
@@ -58,9 +61,10 @@
 - **近期趋势**： 周增长: **4.9k**⭐	 月增长: **4.9k**⭐
 - **主要语言**：[Dart](https://github.com/search?q=language:Dart&type=repositories)
 - **开源时间**：2026-10-25
-## 4.AI 界面美化 Claude 技能:unslop 7.3k⭐
+## 4.Claude 界面优化技能:unslop 7.3k⭐
+![](https://discoverhub.cn/image/product/20261109/20745879-ab6b-48c6-a54c-c5c104088112.jpg)
 - **产品地址**：[https://github.com/heydamir/unslop](https://discoverhub.cn/product/detail/01M6A31ZS8C0G7BRFB2BJJG6YE)
-- **产品介绍**：Claude 专用技能，把 AI 生成的粗糙界面优化成规整美观、专业感更强的设计界面
+- **产品介绍**：Claude 专属技能，将 AI 生成的简陋界面优化调整，打造规整美观、专业精致的设计效果
 - **产品分类**：[[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[图像设计](https://discoverhub.cn/category/01KH0X8Y44XPMRHPK980M7AZVE)] [[能力插件](https://discoverhub.cn/category/01KGE33EB6WP2TRT22J0V4FHQ0)] [[UI设计](https://discoverhub.cn/category/01H24M52P98TC0SC0V3PN5NTFX)] 
 - **产品外站**：[[github](https://github.com/heydamir/unslop)] 
 - **Github地址**：[https://github.com/heydamir/unslop](https://github.com/heydamir/unslop)
@@ -68,9 +72,10 @@
 - **近期趋势**： 周增长: **3.9k**⭐	 月增长: **3.9k**⭐
 - **主要语言**：[JavaScript](https://github.com/search?q=language:JavaScript&type=repositories)
 - **开源时间**：2026-10-29
-## 5.安卓端本地私人 AI 助理:Mika 6.0k⭐
+## 5.安卓本地 AI 智能助手:Mika 6.0k⭐
+![](https://discoverhub.cn/image/product/20261109/a756896d-f16c-456e-ad65-f6288e5f461c.png)
 - **产品地址**：[https://github.com/wangzan101/Mika](https://discoverhub.cn/product/detail/01M6A321HK4GMWQ28FVYQSPT16)
-- **产品介绍**：安卓本地 AI 智能助手，可操控 APP、浏览网页，无需云端中转，帮你自动处理各类事务
+- **产品介绍**：安卓端本地 AI 助手，可操控应用、浏览网页，不经过云端中转，自动完成各类任务
 - **产品分类**：[[AI助手](https://discoverhub.cn/category/01KF12G441EVM6NCE72MWRTS4A)] [[应用软件](https://discoverhub.cn/category/01KH0QH93JS5YA8S2R2AA5HYNC)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[Android](https://discoverhub.cn/category/01KH3FGD07M01F5R92PTC8N9NE)] 
 - **产品外站**：[[github](https://github.com/wangzan101/Mika)] 
 - **Github地址**：[https://github.com/wangzan101/Mika](https://github.com/wangzan101/Mika)
@@ -78,9 +83,10 @@
 - **近期趋势**： 周增长: **3.3k**⭐	 月增长: **3.3k**⭐
 - **主要语言**：[Kotlin](https://github.com/search?q=language:Kotlin&type=repositories)
 - **开源时间**：2026-10-29
-## 6.像素特效代码合集:pixelfx 4.1k⭐
+## 6.像素艺术特效素材库:pixelfx 4.1k⭐
+![](https://discoverhub.cn/image/product/20261109/40d4161e-52a0-4dda-8fc3-4e9d0863cb8a.jpg)
 - **产品地址**：[https://patch-gg.github.io/pixelfx/](https://discoverhub.cn/product/detail/01M6CNEQ7D9JASJPQHDYB8ZV1S)
-- **产品介绍**：收录 244 款像素艺术特效，每款均为独立代码，附带 Claude 技能，支持自定义创作新特效
+- **产品介绍**：收录 244 款独立像素特效代码，配套 Claude 技能，支持自由修改、创作全新像素特效
 - **产品分类**：[[AI图像](https://discoverhub.cn/category/01KER5E4VHNJVY1BK6XB7CBRHX)] [[创意设计](https://discoverhub.cn/category/01KH0WR2CS23XEXD7TWCAPQ5HS)] [[图像生成](https://discoverhub.cn/category/01H0KWHASJKF2S8N80PDAM3XHJ)] [[视觉库](https://discoverhub.cn/category/01H0KWHAN5ZS5KNXV4080Y6K34)] 
 - **产品外站**：[[github](https://github.com/patch-gg/pixelfx)] 
 - **Github地址**：[https://github.com/patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)
@@ -88,18 +94,20 @@
 - **近期趋势**： 周增长: **1.5k**⭐	 月增长: **1.5k**⭐
 - **主要语言**：[JavaScript](https://github.com/search?q=language:JavaScript&type=repositories)
 - **开源时间**：2026-10-30
-## 7.塞尔达王国之泪静态重编译版:totk-pc-recomp 4.4k⭐
+## 7.塞尔达王国之泪 PC 原生移植程序:totk-pc-recomp 4.4k⭐
+![](https://discoverhub.cn/image/product/20261109/17922469-6269-4611-a52c-cdd217f071a1.jpg)
 - **产品地址**：[https://github.com/valentderah/totk-pc-recomp](https://discoverhub.cn/product/detail/01M6A323BDVJKB7DY0D09DRD87)
-- **产品介绍**：将塞尔达王国之泪静态编译为 Windows x86-64 原生程序，搭载 Vulkan 渲染器，不含游戏本体文件
+- **产品介绍**：将王国之泪静态编译为 Windows 原生程序，搭载 Vulkan 渲染器，不含游戏本体文件
 - **产品分类**：[[游戏平台](https://discoverhub.cn/category/01KH3Y7WG8HCJJHSG1RS9CM927)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[游戏引擎](https://discoverhub.cn/category/01HABEAFSX3M88RHDNW7VKJ0XV)] [[经典游戏](https://discoverhub.cn/category/01H0KWJ1ZEYQJ03NMF7PW1E4Z5)] 
 - **产品外站**：[[github](https://github.com/valentderah/totk-pc-recomp)] 
 - **Github地址**：[https://github.com/valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)
 - **Github数据**：star:**4.4k** watch:**59** fork:**356** pr:**132** issue:**421** release:**8**
 - **近期趋势**： 周增长: **1.9k**⭐	 月增长: **1.9k**⭐
 - **开源时间**：2026-10-29
-## 8.Switch2 实验版模拟器:Eglantine 2.9k⭐
+## 8.Switch2 实验模拟器:Eglantine 2.9k⭐
+![](https://discoverhub.cn/image/product/20261109/d6b609c7-a405-4971-99ca-29ad6af965d3.jpg)
 - **产品地址**：[https://github.com/Djihads80/Eglantine](https://discoverhub.cn/product/detail/01M6F7VHD45NJ4VC40H4KYK45H)
-- **产品介绍**：尚处于早期实验阶段的任天堂 Switch 2 模拟器，用于主机架构的模拟研究调试
+- **产品介绍**：早期实验版任天堂 Switch2 模拟器，用于主机架构相关的模拟研究与功能调试工作
 - **产品分类**：[[游戏平台](https://discoverhub.cn/category/01KH3Y7WG8HCJJHSG1RS9CM927)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[游戏引擎](https://discoverhub.cn/category/01HABEAFSX3M88RHDNW7VKJ0XV)] [[软件开发](https://discoverhub.cn/category/01HEA0TP66CP622JTPCJSHFCGX)] 
 - **产品外站**：[[github](https://github.com/Djihads80/Eglantine)] 
 - **Github地址**：[https://github.com/Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)
@@ -117,9 +125,11 @@
 - **Github数据**：star:**9.8k** watch:**86** fork:**1.6k** pr:**67** issue:**19** release:**3**
 - **近期趋势**：周增长: **593**⭐ (+6%)	 月增长: **1.0k**⭐ (+11%)
 - **开源时间**：2026-08-01
-## 10.worktrunk 10.4k⭐
+## 10.Git 工作树管理命令行工具:worktrunk 10.4k⭐
+![](https://discoverhub.cn/image/product/20261109/e2f6eae9-ce3e-4861-a0ae-53b37f2a9c67.jpg)
 - **产品地址**：[https://worktrunk.dev](https://discoverhub.cn/product/detail/01M6HXP0Z12FJQC7VFV9MB91R6)
-- **产品介绍**：Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+- **产品介绍**：Git worktree 管理 CLI 工具，专为并行 AI 智能体工作流打造，便捷管理多分支工作树
+- **产品分类**：[[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] [[开发者工具](https://discoverhub.cn/category/01KH3EYBFZQCNH7QCKD46Z31QS)] 
 - **产品外站**：[[github](https://github.com/max-sixty/worktrunk)] 
 - **Github地址**：[https://github.com/max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
 - **Github数据**：star:**10.4k** watch:**23** fork:**375** pr:**3.9k** issue:**738** release:**153**
@@ -135,28 +145,6 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-长: **1.5k**⭐	 月增长: **1.5k**⭐
-- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2026-10-18
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-nrails/ai-memory)
-- **Github数据**：star:**13.7k** watch:**64** fork:**974** pr:**1.2k** issue:**550** release:**139**
-- **近期趋势**：周增长: **2.6k**⭐ (+23%)	 月增长: **6.2k**⭐ (+81%)
-- **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
-- **开源时间**：2026-05-22
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
