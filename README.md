@@ -1,4 +1,4 @@
-## 2026.11.24 最佳产品🔝:rust-anything
+## 2026.11.25 最佳产品🔝:rust-anything
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -9,128 +9,139 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.23 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.24 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | 当前Star⭐       | 今日Star增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)| 7.3k  | 🔺2352 |
-| 2 |  [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)| 14.3k  | 🔺1542 |
-| 3 |  [heydamir/unslop](https://github.com/heydamir/unslop)| 19.7k  | 🔺1088 |
-| 4 |  [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk)| 6.6k  | 🔺809 |
-| 5 |  [cursor/plugins](https://github.com/cursor/plugins)| 18.7k  | 🔺692 |
-| 6 |  [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)| 11.3k  | 🔺684 |
-| 7 |  [Minireel/HGhub](https://github.com/Minireel/HGhub)| 11.6k  | 🔺655 |
-| 8 |  [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)| 2.8k  | 🔺445 |
-| 9 |  [wangzan101/Mika](https://github.com/wangzan101/Mika)| 9.8k  | 🔺326 |
-| 10 |  [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)| 8.9k  | 🔺264 |
+| 1 |  [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)| 9.2k  | 🔺1863 |
+| 2 |  [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)| 12.6k  | 🔺1238 |
+| 3 |  [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)| 15.2k  | 🔺955 |
+| 4 |  [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk)| 7.3k  | 🔺641 |
+| 5 |  [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)| 8.5k  | 🔺580 |
+| 6 |  [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)| 3.6k  | 🔺469 |
+| 7 |  [cursor/plugins](https://github.com/cursor/plugins)| 19.1k  | 🔺379 |
+| 8 |  [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)| 2.5k  | 🔺369 |
+| 9 |  [run-llama/liteparse](https://github.com/run-llama/liteparse)| 13.3k  | 🔺211 |
+| 10 |  [unclebob/ub-mode](https://github.com/unclebob/ub-mode)| 8.6k  | 🔺166 |
 
 **注**: 数据统计来源:https://discoverhub.cn/trend/github/rank?type=2
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.23 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.24 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-## 1.多语言项目Rust渐进迁移工具:rust-anything 7.3k⭐
+## 1.多语言项目Rust渐进迁移工具:rust-anything 9.2k⭐
 ![](https://discoverhub.cn/image/product/20261123/47681db0-c607-4f6e-b969-b37f39bc43a9.png)
 - **产品地址**：[https://www.npmjs.com/package/rust-anything](https://discoverhub.cn/product/detail/01M7RE71HRHQN3VSK0Y1Y6YYA2)
 - **产品介绍**：支持TS、Python、C、Go等语言，逐模块把应用改写为Rust，对比原始行为，保障迁移前后逻辑一致。
 - **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[Rust](https://discoverhub.cn/category/01H1NDCAQZV6WFK9Q5MRKYS35Q)] [[软件开发](https://discoverhub.cn/category/01HEA0TP66CP622JTPCJSHFCGX)] 
 - **产品外站**：[[github](https://github.com/erkamyaman/rust-anything)] 
 - **Github地址**：[https://github.com/erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)
-- **Github数据**：star:**7.3k** watch:**22** fork:**585** pr:**109** issue:**77** release:**13**
-- **近期趋势**： 周增长: **4.0k**⭐	 月增长: **4.0k**⭐
+- **Github数据**：star:**9.2k** watch:**30** fork:**746** pr:**228** issue:**205** release:**18**
+- **近期趋势**： 周增长: **5.9k**⭐	 月增长: **5.9k**⭐
 - **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
 - **开源时间**：2026-11-16
-## 2.AI 视频高光自动剪辑工具:autoclip 14.3k⭐
-![](https://discoverhub.cn/image/product/20260923/58c75bb4-1836-4d07-a00a-7295fe518d16.png)
-- **产品地址**：[https://zhouxiaoka.github.io/autoclip_intro/](https://discoverhub.cn/product/detail/01M35RZTH8ZJM51GZW6Y74ZHQV)
-- **产品介绍**：开源二创工具，解析 B 站、YouTube 及本地视频，AI 自动识别高光片段生成剪辑，视频全程在本机处理保障数据安全。
-- **产品分类**：[[AI视频](https://discoverhub.cn/category/01KER5E4VJW1D7WMAVNZR9QSEB)] [[应用软件](https://discoverhub.cn/category/01KH0QH93JS5YA8S2R2AA5HYNC)] [[文生视频](https://discoverhub.cn/category/01KF16A5HW88DC40NQW0TMP7NG)] [[桌面应用](https://discoverhub.cn/category/01HAXG82J63WF6XXEZCTDD71AP)] 
-- **产品外站**：[[github](https://github.com/zhouxiaoka/autoclip)] 
-- **Github地址**：[https://github.com/zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)
-- **Github数据**：star:**14.3k** watch:**49** fork:**2.2k** pr:**495** issue:**145** release:**20**
-- **近期趋势**：周增长: **4.0k**⭐ (+38%)	 月增长: **5.1k**⭐ (+55%)
-- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2025-07-08
-## 3.Claude 界面优化技能:unslop 19.7k⭐
-![](https://discoverhub.cn/image/product/20261109/20745879-ab6b-48c6-a54c-c5c104088112.jpg)
-- **产品地址**：[https://github.com/heydamir/unslop](https://discoverhub.cn/product/detail/01M6A31ZS8C0G7BRFB2BJJG6YE)
-- **产品介绍**：Claude 专属技能，将 AI 生成的简陋界面优化调整，打造规整美观、专业精致的设计效果
-- **产品分类**：[[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[图像设计](https://discoverhub.cn/category/01KH0X8Y44XPMRHPK980M7AZVE)] [[能力插件](https://discoverhub.cn/category/01KGE33EB6WP2TRT22J0V4FHQ0)] [[UI设计](https://discoverhub.cn/category/01H24M52P98TC0SC0V3PN5NTFX)] 
-- **产品外站**：[[github](https://github.com/heydamir/unslop)] 
-- **Github地址**：[https://github.com/heydamir/unslop](https://github.com/heydamir/unslop)
-- **Github数据**：star:**19.7k** watch:**28** fork:**1.2k** pr:**33** issue:**10** release:**0**
-- **近期趋势**：周增长: **13.7k**⭐ (+229%)	 月增长: **16.3k**⭐
-- **主要语言**：[JavaScript](https://github.com/search?q=language:JavaScript&type=repositories)
-- **开源时间**：2026-10-29
-## 4.轻量级跨平台远程桌面解决方案:crossdesk 6.6k⭐
-![](https://discoverhub.cn/image/product/20260831/ffb9214a-c74e-433a-b2f3-77744a9dff41.png)
-- **产品地址**：[https://www.crossdesk.cn](https://discoverhub.cn/product/detail/01M1BGDXKN5PASVY3Y2YTGHYST)
-- **产品介绍**：跨平台轻量远程桌面软件，除客户端外支持网页浏览器直接访问，实现跨设备远程操控，部署简单使用便捷。
-- **产品分类**：[[前端](https://discoverhub.cn/category/01KH0QH8HDVKQWWPV6TJDQ22ZP)] [[后端](https://discoverhub.cn/category/01KH0QH92089J6HKHC3PJX458M)] [[Web 应用](https://discoverhub.cn/category/01KH3GEFBCEN506MKGT0X4PT09)] [[桌面应用](https://discoverhub.cn/category/01HAXG82J63WF6XXEZCTDD71AP)] 
-- **产品外站**：[[github](https://github.com/kunkundi/crossdesk)] 
-- **Github地址**：[https://github.com/kunkundi/crossdesk](https://github.com/kunkundi/crossdesk)
-- **Github数据**：star:**6.6k** watch:**26** fork:**680** pr:**8** issue:**191** release:**55**
-- **近期趋势**：周增长: **1.9k**⭐ (+40%)	 月增长: **2.2k**⭐ (+49%)
-- **主要语言**：[C++](https://github.com/search?q=language:C++&type=repositories)
-- **开源时间**：2023-11-20
-## 5.编辑器插件开发规范:plugins 18.7k⭐
-![](https://discoverhub.cn/image/product/20260820/665f1656-06c9-4554-82e7-5a290ab0dd29.png)
-- **产品地址**：[https://github.com/cursor/plugins](https://discoverhub.cn/product/detail/01M0E7FDFRY63ME7RE4XFW1YTE)
-- **产品介绍**：提供 Cursor 插件标准规范与官方插件，便于开发者扩展编辑器能力，自定义各类 AI 编码辅助功能。
-- **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[插件工具](https://discoverhub.cn/category/01KH3HF83WFTXX22AZK4NBXZWY)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] [[开发者工具](https://discoverhub.cn/category/01KH3EYBFZQCNH7QCKD46Z31QS)] 
-- **产品外站**：[[github](https://github.com/cursor/plugins)] 
-- **Github地址**：[https://github.com/cursor/plugins](https://github.com/cursor/plugins)
-- **Github数据**：star:**18.7k** watch:**81** fork:**2.0k** pr:**1.1k** issue:**168** release:**0**
-- **近期趋势**：周增长: **2.7k**⭐ (+16%)	 月增长: **8.5k**⭐ (+83%)
-- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
-- **开源时间**：2026-01-23
-## 6.Stitch MCP智能体技能库:stitch-skills 11.3k⭐
+## 2.Stitch MCP智能体技能库:stitch-skills 12.6k⭐
 ![](https://discoverhub.cn/image/product/20261123/e3ef8f0f-7333-40f4-9bf6-fd77ba3cac92.png)
 - **产品地址**：[https://stitch.withgoogle.com/docs/mcp/setup](https://discoverhub.cn/product/detail/01M7RHN0A4BJ9WTCNSEDYXF7PB)
 - **产品介绍**：面向Stitch MCP服务器的技能合集，遵循智能体技能开放标准，适配Gemini CLI、Claude Code等编码工具。
 - **产品分类**：[[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[技能库](https://discoverhub.cn/category/01KKXF1CWH6Q8D4K3WDXE9SGZQ)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] 
 - **产品外站**：[[github](https://github.com/google-labs-code/stitch-skills)] 
 - **Github地址**：[https://github.com/google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
-- **Github数据**：star:**11.3k** watch:**91** fork:**1.4k** pr:**76** issue:**30** release:**2**
-- **近期趋势**：周增长: **2.7k**⭐ (+30%)	 月增长: **2.9k**⭐ (+34%)
+- **Github数据**：star:**12.6k** watch:**93** fork:**1.5k** pr:**77** issue:**30** release:**2**
+- **近期趋势**：周增长: **3.9k**⭐ (+45%)	 月增长: **4.2k**⭐ (+49%)
 - **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
 - **开源时间**：2026-01-17
-## 7.YellowFruit 第三方客户端:HGhub 11.6k⭐
-![](https://discoverhub.cn/image/product/20261116/949178da-f3d2-4d3c-aa1a-b6c22cca1d5f.png)
-- **产品地址**：[https://github.com/Minireel/HGhub](https://discoverhub.cn/product/detail/01M76GVR1GPGTP6SFA88PWEZ01)
-- **产品介绍**：YellowFruit 平台的第三方客户端，提供差异化访问体验，拓展平台的使用功能与操作方式。
-- **产品分类**：[[客户端平台](https://discoverhub.cn/category/01KH3FBYS5QT48R6YCN0ZEASWV)] [[应用软件](https://discoverhub.cn/category/01KH0QH93JS5YA8S2R2AA5HYNC)] [[Android](https://discoverhub.cn/category/01KH3FGD07M01F5R92PTC8N9NE)] [[桌面应用](https://discoverhub.cn/category/01HAXG82J63WF6XXEZCTDD71AP)] 
-- **产品外站**：[[github](https://github.com/Minireel/HGhub)] 
-- **Github地址**：[https://github.com/Minireel/HGhub](https://github.com/Minireel/HGhub)
-- **Github数据**：star:**11.6k** watch:**52** fork:**9.1k** pr:**29** issue:**52** release:**4**
-- **近期趋势**：周增长: **3.4k**⭐ (+40%)	 月增长: **9.4k**⭐
+## 3.AI 视频高光自动剪辑工具:autoclip 15.2k⭐
+![](https://discoverhub.cn/image/product/20260923/58c75bb4-1836-4d07-a00a-7295fe518d16.png)
+- **产品地址**：[https://zhouxiaoka.github.io/autoclip_intro/](https://discoverhub.cn/product/detail/01M35RZTH8ZJM51GZW6Y74ZHQV)
+- **产品介绍**：开源二创工具，解析 B 站、YouTube 及本地视频，AI 自动识别高光片段生成剪辑，视频全程在本机处理保障数据安全。
+- **产品分类**：[[AI视频](https://discoverhub.cn/category/01KER5E4VJW1D7WMAVNZR9QSEB)] [[应用软件](https://discoverhub.cn/category/01KH0QH93JS5YA8S2R2AA5HYNC)] [[文生视频](https://discoverhub.cn/category/01KF16A5HW88DC40NQW0TMP7NG)] [[桌面应用](https://discoverhub.cn/category/01HAXG82J63WF6XXEZCTDD71AP)] 
+- **产品外站**：[[github](https://github.com/zhouxiaoka/autoclip)] 
+- **Github地址**：[https://github.com/zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)
+- **Github数据**：star:**15.2k** watch:**49** fork:**2.3k** pr:**498** issue:**147** release:**21**
+- **近期趋势**：周增长: **4.8k**⭐ (+45%)	 月增长: **6.0k**⭐ (+64%)
+- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
+- **开源时间**：2025-07-08
+## 4.轻量级跨平台远程桌面解决方案:crossdesk 7.3k⭐
+![](https://discoverhub.cn/image/product/20260831/ffb9214a-c74e-433a-b2f3-77744a9dff41.png)
+- **产品地址**：[https://www.crossdesk.cn](https://discoverhub.cn/product/detail/01M1BGDXKN5PASVY3Y2YTGHYST)
+- **产品介绍**：跨平台轻量远程桌面软件，除客户端外支持网页浏览器直接访问，实现跨设备远程操控，部署简单使用便捷。
+- **产品分类**：[[前端](https://discoverhub.cn/category/01KH0QH8HDVKQWWPV6TJDQ22ZP)] [[后端](https://discoverhub.cn/category/01KH0QH92089J6HKHC3PJX458M)] [[Web 应用](https://discoverhub.cn/category/01KH3GEFBCEN506MKGT0X4PT09)] [[桌面应用](https://discoverhub.cn/category/01HAXG82J63WF6XXEZCTDD71AP)] 
+- **产品外站**：[[github](https://github.com/kunkundi/crossdesk)] 
+- **Github地址**：[https://github.com/kunkundi/crossdesk](https://github.com/kunkundi/crossdesk)
+- **Github数据**：star:**7.3k** watch:**26** fork:**771** pr:**9** issue:**230** release:**55**
+- **近期趋势**：周增长: **2.5k**⭐ (+52%)	 月增长: **2.8k**⭐ (+63%)
+- **主要语言**：[C++](https://github.com/search?q=language:C++&type=repositories)
+- **开源时间**：2023-11-20
+## 5.AI 绘图姿势参考画廊:ai-pose-gallery-zh 8.5k⭐
+![](https://discoverhub.cn/image/product/20261109/61f353e3-f808-4014-9e6b-3f1d1f9563ce.png)
+- **产品地址**：[https://ai-pose-gallery.anhao.app](https://discoverhub.cn/product/detail/01M64Y8JM9SV8J0SP5GGVPTK2T)
+- **产品介绍**：内置 1439 组姿势参考图，完整汉化，零依赖静态画廊，为 AI 绘画提供丰富姿势素材
+- **产品分类**：[[AI图像](https://discoverhub.cn/category/01KER5E4VHNJVY1BK6XB7CBRHX)] [[图片库网站](https://discoverhub.cn/category/01KH0X3VBRJCZK7CB0G9QFB1HW)] [[图像生成](https://discoverhub.cn/category/01H0KWHASJKF2S8N80PDAM3XHJ)] [[视觉库](https://discoverhub.cn/category/01H0KWHAN5ZS5KNXV4080Y6K34)] 
+- **产品外站**：[[github](https://github.com/anhao/ai-pose-gallery-zh)] 
+- **Github地址**：[https://github.com/anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)
+- **Github数据**：star:**8.5k** watch:**20** fork:**2.2k** pr:**36** issue:**19** release:**0**
+- **近期趋势**：周增长: **1.6k**⭐ (+22%)	 月增长: **5.4k**⭐
+- **主要语言**：[HTML](https://github.com/search?q=language:HTML&type=repositories)
+- **开源时间**：2026-10-27
+## 6.fast-anything 3.6k⭐
+- **产品地址**：[https://www.npmjs.com/package/@el4cteo/fast-anything](https://discoverhub.cn/product/detail/01M85A6KD2V8EQDNG5CYY2G8XT)
+- **产品介绍**：Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- **产品外站**：[[github](https://github.com/EL4CTEO/fast-anything)] 
+- **Github地址**：[https://github.com/EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)
+- **Github数据**：star:**3.6k** watch:**4** fork:**252** pr:**71** issue:**65** release:**15**
+- **近期趋势**： 周增长: **469**⭐
+- **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
+- **开源时间**：2026-11-21
+## 7.编辑器插件开发规范:plugins 19.1k⭐
+![](https://discoverhub.cn/image/product/20260820/665f1656-06c9-4554-82e7-5a290ab0dd29.png)
+- **产品地址**：[https://github.com/cursor/plugins](https://discoverhub.cn/product/detail/01M0E7FDFRY63ME7RE4XFW1YTE)
+- **产品介绍**：提供 Cursor 插件标准规范与官方插件，便于开发者扩展编辑器能力，自定义各类 AI 编码辅助功能。
+- **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[插件工具](https://discoverhub.cn/category/01KH3HF83WFTXX22AZK4NBXZWY)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] [[开发者工具](https://discoverhub.cn/category/01KH3EYBFZQCNH7QCKD46Z31QS)] 
+- **产品外站**：[[github](https://github.com/cursor/plugins)] 
+- **Github地址**：[https://github.com/cursor/plugins](https://github.com/cursor/plugins)
+- **Github数据**：star:**19.1k** watch:**81** fork:**2.1k** pr:**1.2k** issue:**169** release:**0**
+- **近期趋势**：周增长: **2.9k**⭐ (+17%)	 月增长: **8.8k**⭐ (+84%)
 - **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
-- **开源时间**：2026-11-03
-## 8.Blender AI助手MCP插件:blender-ai-mcp-addon 2.8k⭐
-![](https://discoverhub.cn/image/product/20261123/c8947abb-4dbe-444d-b7eb-feb42a7ff24d.png)
-- **产品地址**：[https://github.com/bookwjitchieni1986/blender-ai-mcp-addon](https://discoverhub.cn/product/detail/01M805DJ357YS8ZCGZGRMDAQZE)
-- **产品介绍**：Blender的AI助手与MCP服务，可视化对话、场景操作、多智能体流程，对接各类主流大模型。
-- **产品分类**：[[图像设计](https://discoverhub.cn/category/01KH0X8Y44XPMRHPK980M7AZVE)] [[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[3D可视化](https://discoverhub.cn/category/01H0KWHGGH58YK7JT06AY000TW)] [[能力插件](https://discoverhub.cn/category/01KGE33EB6WP2TRT22J0V4FHQ0)] 
-- **产品外站**：[[github](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)] 
-- **Github地址**：[https://github.com/bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)
-- **Github数据**：star:**2.8k** watch:**1.4k** fork:**40** pr:**0** issue:**61** release:**1**
-- **近期趋势**： 周增长: **445**⭐
+- **开源时间**：2026-01-23
+## 8.本地开源短视频剪辑引擎:neonclipping 2.5k⭐
+![](https://discoverhub.cn/image/product/20261123/00f12339-01a5-43d6-9176-807923672387.png)
+- **产品地址**：[https://github.com/iamajmeena/neonclipping](https://discoverhub.cn/product/detail/01M82QSXBZ1QCKAEBVRMJHKYD0)
+- **产品介绍**：开源本地剪辑工具，粘贴链接，约两分钟生成9:16带字幕片段，依托本地大模型处理音频字幕。
+- **产品分类**：[[AI视频](https://discoverhub.cn/category/01KER5E4VJW1D7WMAVNZR9QSEB)] [[应用软件](https://discoverhub.cn/category/01KH0QH93JS5YA8S2R2AA5HYNC)] [[视频处理](https://discoverhub.cn/category/01H0KWJ6S735YFKMXTEWEZ1YEC)] [[大语言模型](https://discoverhub.cn/category/01H0KWJ89PQF4DPJE9318CMYP2)] 
+- **产品外站**：[[github](https://github.com/iamajmeena/neonclipping)] 
+- **Github地址**：[https://github.com/iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)
+- **Github数据**：star:**2.5k** watch:**23** fork:**155** pr:**7** issue:**64** release:**2**
+- **近期趋势**： 周增长: **369**⭐
+- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
 - **开源时间**：2026-11-19
-## 9.安卓本地 AI 智能助手:Mika 9.8k⭐
-![](https://discoverhub.cn/image/product/20261109/a756896d-f16c-456e-ad65-f6288e5f461c.png)
-- **产品地址**：[https://github.com/wangzan101/Mika](https://discoverhub.cn/product/detail/01M6A321HK4GMWQ28FVYQSPT16)
-- **产品介绍**：安卓端本地 AI 助手，可操控应用、浏览网页，不经过云端中转，自动完成各类任务
-- **产品分类**：[[AI助手](https://discoverhub.cn/category/01KF12G441EVM6NCE72MWRTS4A)] [[应用软件](https://discoverhub.cn/category/01KH0QH93JS5YA8S2R2AA5HYNC)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[Android](https://discoverhub.cn/category/01KH3FGD07M01F5R92PTC8N9NE)] 
-- **产品外站**：[[github](https://github.com/wangzan101/Mika)] 
-- **Github地址**：[https://github.com/wangzan101/Mika](https://github.com/wangzan101/Mika)
-- **Github数据**：star:**9.8k** watch:**16** fork:**2.2k** pr:**539** issue:**288** release:**52**
-- **近期趋势**：周增长: **1.5k**⭐ (+18%)	 月增长: **7.1k**⭐
-- **主要语言**：[Kotlin](https://github.com/search?q=language:Kotlin&type=repositories)
-- **开源时间**：2026-10-29
-## 10.像素艺术特效素材库:pixelfx 8.9k⭐
-![](https://discoverhub.cn/image/product/20261109/40d4161e-52a0-4dda-8fc3-4e9d0863cb8a.jpg)
-- **产品地址**：[https://patch-gg.github.io/pixelfx/](https://discoverhub.cn/product/detail/01M6CNEQ7D9JASJPQHDYB8ZV1S)
-- **产品介绍**：收录 244 款独立像素特效代码，配套 Claude 技能，支持自由修改、创作全新像素特效
-- **产品分类**：[[AI图像](https://discoverhub.cn/category/01KER5E4VHNJVY1BK6XB7CBRHX)] [[创意设计](https://discoverhub.cn/category/01KH0WR2CS23XEXD7TWCAPQ5HS)] [[图像生成](https://discoverhub.cn/category/01H0KWHASJKF2S8N80PDAM3XHJ)] [[视觉库](https://discoverhub.cn/category/01H0KWHAN5ZS5KNXV4080Y6K34)] 
+## 9.liteparse 13.3k⭐
+- **产品地址**：[https://developers.llamaindex.ai/liteparse/](https://discoverhub.cn/product/detail/01M88014MS1X1WX7CMNPQ3QDC8)
+- **产品介绍**：A fast, helpful, and open-source document parser
+- **产品外站**：[[github](https://github.com/run-llama/liteparse)] 
+- **Github地址**：[https://github.com/run-llama/liteparse](https://github.com/run-llama/liteparse)
+- **Github数据**：star:**13.3k** watch:**37** fork:**925** pr:**440** issue:**178** release:**230**
+- **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
+- **开源时间**：2026-02-10
+## 10.代码开发辅助工具:ub-mode 8.6k⭐
+![](https://discoverhub.cn/image/product/20261109/50910760-cf67-4fae-8828-3a888d3aff34.jpg)
+- **产品地址**：[https://github.com/unclebob/ub-mode](https://discoverhub.cn/product/detail/01M5ZSF7C40TMTHCQJQ97Y8P4G)
+- **产品介绍**：开源开发辅助工具，贴合开发工作流，简化代码编辑操作，有效提升日常编码效率
+- **产品分类**：[[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[开发者工具](https://discoverhub.cn/category/01KH3EYBFZQCNH7QCKD46Z31QS)] [[编程助手](https://discoverhub.cn/category/01KF164G8S4BGCH5G8Y0GA48P0)] 
+- **产品外站**：[[github](https://github.com/unclebob/ub-mode)] 
+- **Github地址**：[https://github.com/unclebob/ub-mode](https://github.com/unclebob/ub-mode)
+- **Github数据**：star:**8.6k** watch:**69** fork:**492** pr:**9** issue:**9** release:**0**
+- **近期趋势**：周增长: **636**⭐ (+7%)	 月增长: **6.4k**⭐
+- **开源时间**：2026-10-26
+
+---
+## 更多Github开源项目,请关注微信&公众号
+
+<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
+<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+V4080Y6K34)] 
 - **产品外站**：[[github](https://github.com/patch-gg/pixelfx)] 
 - **Github地址**：[https://github.com/patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)
 - **Github数据**：star:**8.9k** watch:**26** fork:**1.2k** pr:**10** issue:**9** release:**0**
